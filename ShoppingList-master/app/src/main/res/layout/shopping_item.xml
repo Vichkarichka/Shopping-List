@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_alignParentLeft="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="ITEM NAME"
+        android:id="@+id/itemName" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_toLeftOf="@+id/itemRemove"
+        android:layout_width="30dp"
+        android:layout_height="35dp"
+        android:text="+"
+        android:id="@+id/itemAdd" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_toLeftOf="@+id/itemDone"
+        android:layout_width="30dp"
+        android:layout_height="35dp"
+        android:text="-"
+        android:id="@+id/itemRemove" />
+
+    <CheckBox
+
+        android:layout_toLeftOf="@+id/itemDelete"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/itemDone" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_alignParentRight="true"
+        android:layout_width="30dp"
+        android:layout_height="35dp"
+        android:text="x"
+        android:id="@+id/itemDelete" />
+</RelativeLayout>

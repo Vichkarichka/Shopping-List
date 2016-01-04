@@ -1,0 +1,330 @@
+MED
+C:\altera\91sp2\quartus\lab5\ram.hex
+
+	Undo Commands
+	     1.	Cells
+	     2.	Cells
+	     3.	Cells
+	     4.	Cells
+	     5.	Cells
+	     6.	Cells
+	     7.	Cells
+	     8.	Cells
+	     9.	Cells
+	    10.	Cells
+	    11.	Cells
+	    12.	Cells
+	    13.	Cells
+	    14.	Cells
+	    15.	Cells
+	    16.	Cells
+	    17.	Cells
+	    18.	Cells
+	    19.	Cells
+	    20.	Cells
+	    21.	Cells
+	    22.	Cells
+	    23.	Cells
+	    24.	Cells
+	    25.	Cells
+	    26.	Cells
+	    27.	Cells
+	    28.	Cells
+	    29.	Cells
+	    30.	Cells
+	    31.	Cells
+	    32.	Cells
+	    33.	Cells
+	    34.	Cells
+	    35.	Cells
+	    36.	Cells
+	    37.	Cells
+	    38.	Cells
+	    39.	Cells
+	    40.	Cells
+	    41.	Cells
+	    42.	Cells
+	    43.	Cells
+	    44.	Cells
+	    45.	Cells
+	    46.	Cells
+	    47.	Cells
+	    48.	Cells
+	    49.	Cells
+	    50.	Cells
+	    51.	Cells
+	    52.	Cells
+	    53.	Cells
+	    54.	Cells
+	    55.	Cells
+	    56.	Cells
+	    57.	Cells
+	    58.	Cells
+	    59.	Cells
+	    60.	Cells
+	    61.	Cells
+	    62.	Cells
+	    63.	Cells
+	    64.	Cells
+	    65.	Cells
+	    66.	Cells
+	    67.	Cells
+	    68.	Cells
+	    69.	Cells
+	    70.	Cells
+	    71.	Cells
+	    72.	Cells
+	    73.	Cells
+	    74.	Cells
+	    75.	Cells
+	    76.	Cells
+	    77.	Cells
+	    78.	Cells
+	    79.	Cells
+	    80.	Cells
+	    81.	Cells
+	    82.	Cells
+	    83.	Cells
+	    84.	Cells
+	    85.	Cells
+	    86.	Cells
+	    87.	Cells
+	    88.	Cells
+	    89.	Cells
+	    90.	Cells
+	    91.	Cells
+	    92.	Change Address Radix
+	    93.	Change Memory Radix
+	    94.	Change Memory Radix
+	    95.	Cells
+	    96.	Cells
+	    97.	Cells
+	    98.	Cells
+	    99.	Cells
+	   100.	Cells
+	   101.	Cells
+	   102.	Cells
+	   103.	Cells
+	   104.	Cells
+
+
+GED
+
+	Undo Commands
+	     1.	Paste
+	     2.	Delete
+	     3.	Properties
+	     4.	Insert Node
+	     5.	Move
+	     6.	Paste
+	     7.	Properties
+	     8.	Insert Node
+	     9.	Properties
+	    10.	Insert Node
+	    11.	Move
+	    12.	Paste
+	    13.	Properties
+	    14.	Insert Node
+	    15.	Properties
+	    16.	Insert Node
+	    17.	Move
+	    18.	Move
+	    19.	Paste
+	    20.	Properties
+	    21.	Properties
+	    22.	Properties
+	    23.	Properties
+	    24.	Properties
+	    25.	Properties
+	    26.	Properties
+	    27.	Properties
+	    28.	Properties
+	    29.	Properties
+	    30.	Properties
+	    31.	Properties
+	    32.	Properties
+	    33.	Properties
+	    34.	Properties
+	    35.	Properties
+	    36.	Properties
+	    37.	Properties
+	    38.	Properties
+	    39.	Properties
+	    40.	Properties
+	    41.	Move
+	    42.	Delete
+	    43.	Move
+	    44.	Paste
+	    45.	Delete
+	    46.	Move
+	    47.	Delete
+	    48.	Move
+	    49.	Paste
+	    50.	Delete
+	    51.	Move
+	    52.	Delete
+	    53.	Move
+	    54.	Paste
+	    55.	Delete
+	    56.	Move
+	    57.	Move
+	    58.	Delete
+	    59.	Move
+	    60.	Paste
+	    61.	Delete
+	    62.	Move
+	    63.	Delete
+	    64.	Move
+	    65.	Paste
+	    66.	Delete
+	    67.	Move
+	    68.	Delete
+	    69.	Move
+	    70.	Paste
+	    71.	Delete
+	    72.	Move
+	    73.	Delete
+	    74.	Move
+	    75.	Paste
+	    76.	Delete
+	    77.	Move
+	    78.	Delete
+	    79.	Move
+	    80.	Paste
+	    81.	Delete
+	    82.	Move
+	    83.	Delete
+	    84.	Move
+	    85.	Paste
+	    86.	Delete
+	    87.	Move
+	    88.	Move
+	    89.	Delete
+	    90.	Move
+	    91.	Paste
+	    92.	Delete
+	    93.	Move
+	    94.	Delete
+	    95.	Move
+	    96.	Paste
+	    97.	Delete
+	    98.	Move
+	    99.	Delete
+	   100.	Move
+
+
+GED
+
+	Undo Commands
+	     1.	Move
+	     2.	Move
+	     3.	Move
+	     4.	Move
+	     5.	Paste
+	     6.	Delete
+	     7.	Delete
+	     8.	Insert Symbol
+	     9.	Delete
+	    10.	Properties
+	    11.	Properties
+	    12.	Properties
+	    13.	Properties
+	    14.	Properties
+	    15.	Properties
+	    16.	Properties
+	    17.	Properties
+	    18.	Properties
+	    19.	Properties
+	    20.	Insert Node
+	    21.	Move
+	    22.	Move
+	    23.	Move
+	    24.	Insert Symbol
+	    25.	Delete
+	    26.	Insert Symbol
+	    27.	Delete
+	    28.	Move
+	    29.	Move
+	    30.	Move
+	    31.	Insert Symbol
+	    32.	Delete
+	    33.	Move
+	    34.	Insert Node
+	    35.	Move
+	    36.	Paste
+	    37.	Paste
+	    38.	Delete
+	    39.	Move
+	    40.	Properties
+	    41.	Insert Node
+	    42.	Properties
+	    43.	Insert Node
+	    44.	Properties
+	    45.	Insert Node
+	    46.	Move
+	    47.	Move
+	    48.	Paste
+	    49.	Delete
+	    50.	Insert Symbol
+	    51.	Delete
+	    52.	Properties
+	    53.	Properties
+	    54.	Insert Node
+	    55.	Properties
+	    56.	Insert Node
+	    57.	Properties
+	    58.	Insert Node
+	    59.	Properties
+	    60.	Properties
+	    61.	Properties
+	    62.	Insert Node
+	    63.	Properties
+	    64.	Insert Node
+	    65.	Insert Symbol
+	    66.	Insert Node
+	    67.	Insert Node
+	    68.	Properties
+	    69.	Insert Node
+	    70.	Insert Symbol
+	    71.	Delete
+	    72.	Properties
+	    73.	Properties
+	    74.	Insert Bus
+	    75.	Properties
+	    76.	Move
+	    77.	Insert Symbol
+	    78.	Properties
+	    79.	Properties
+	    80.	Insert Bus
+	    81.	Properties
+	    82.	Insert Node
+	    83.	Insert Symbol
+	    84.	Properties
+	    85.	Insert Bus
+	    86.	Properties
+	    87.	Insert Symbol
+	    88.	Properties
+	    89.	Properties
+	    90.	Properties
+	    91.	Properties
+	    92.	Properties
+	    93.	Insert Bus
+	    94.	Insert Symbol
+	    95.	Properties
+	    96.	Insert Bus
+	    97.	Properties
+	    98.	Insert Symbol
+	    99.	Delete
+	   100.	Delete
+
+
+RPW
+
+	Undo Commands
+	     1.	||Compilation Report||Flow Summary
+	     2.	||Compilation Report||Analysis & Synthesis||Analysis & Synthesis Messages
+	     3.	||Compilation Report||Flow Summary
+	     4.	||Compilation Report||Analysis & Synthesis||Analysis & Synthesis Messages
+	     5.	||Compilation Report||Flow Summary
+
+
